@@ -1,3 +1,4 @@
+//Link den trang web 
 package linhtinh;
 
 public class AccessWeb {
